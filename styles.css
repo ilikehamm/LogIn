@@ -1,0 +1,86 @@
+h2 {
+	font-family: verdana, sans-serif; 
+	text-align: center;
+}
+
+.button {
+	background-color: darkseagreen;
+	font-family: verdana, sans-serif; 
+	color: snow; 
+	text-align: center; 
+	text-decoration: none; 
+	display: inline-block;
+	border-style: none;
+}
+
+.button1 {
+	background-color: darkseagreen;
+	padding: 15px 31px;
+}
+
+.button2 {
+	background-color: lightslategray;
+	padding: 15px 25px;
+}
+
+.button3 {
+	background-color: indianred;
+	padding: 15px 25px;
+}
+
+.button1:hover {
+	background-color: gainsboro;
+	color: darkslategray;
+}
+
+.button2:hover {
+	background-color: gainsboro;
+	color: darkslategray;
+}
+
+.button3:hover {
+	opacity: 50%;
+}
+
+.welcome {
+	text-align: center;
+	vertical-align: middle;
+	align-items: center;
+	font-size: 12 px;
+}
+
+.login {
+	font-family: verdana, sans-serif; 
+	font-size: 12px;
+	text-align: center; 
+	text-decoration: none; 
+	display: inline-block;
+	border-style: none;
+}
+
+.form-inline {
+	font-family: verdana, sans-serif; 
+	font-size: 12px;
+}
+
+.form-inline label {
+	margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+	margin: 5px 10px 5px 0;
+	padding: 10px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+.form-inline button {
+	padding: 10px 20px;
+	border: 1px solid #ddd;
+	color: white;
+	cursor: pointer;
+}
+
+.form-inline button:hover {
+  background-color: royalblue;
+}
