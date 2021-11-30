@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
 	<link rel="stylesheet" href="styles.css">
-<title>Welcome Page</title>
 </head>
 
 <body>
