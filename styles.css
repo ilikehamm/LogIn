@@ -2,7 +2,6 @@ h2 {
 	font-family: verdana, sans-serif; 
 	text-align: center;
 }
-
 p {
 	font-family: verdana, sans-serif;
 	text-align: center;
@@ -12,7 +11,7 @@ p {
 .button {
 	background-color: darkseagreen;
 	font-family: verdana, sans-serif; 
-	color: white; 
+	color: snow; 
 	text-align: center; 
 	text-decoration: none; 
 	display: inline-block;
@@ -32,6 +31,14 @@ p {
 .button3 {
 	background-color: indianred;
 	padding: 15px 25px;
+}
+
+.button4 {
+	background-color: white;
+	color: black;
+	padding: 10px 20px;
+	border: 1px solid #ddd;
+	cursor: pointer;
 }
 
 .button1:hover {
