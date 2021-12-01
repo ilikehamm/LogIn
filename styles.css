@@ -3,6 +3,12 @@ h2 {
 	text-align: center;
 }
 
+p {
+	font-family: verdana, sans-serif;
+	text-align: center;
+	font-size: 12px;
+}
+
 .button {
 	background-color: darkseagreen;
 	font-family: verdana, sans-serif; 
