@@ -11,6 +11,9 @@
 <br><br>
 <a href="SignUpPage.html" class="button button2"/>Sign Up</a>
 </div>
+<p><br>
+	<a href="https://ilikehamm.github.io/login/">Click here to open this in your web browser.</a>
+</p>
 </body>
 
 </html>
